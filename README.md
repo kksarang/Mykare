@@ -1,8 +1,6 @@
 # Mykare
-Location App
-login
-SignUp
-SharedPreference
+Location finding,
+login & SignUp using SharedPreference
 
 
 
