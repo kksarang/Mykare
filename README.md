@@ -24,3 +24,9 @@ SharedPreference
 
 
 ![Screenshot_1640190023](https://user-images.githubusercontent.com/74540209/147123318-ad9624fc-5419-446d-9b85-f28e56897649.png)
+
+
+
+
+
+![Screenshot_1640190123](https://user-images.githubusercontent.com/74540209/147123557-8e484b92-272c-43a8-a478-a090f2119085.png)
